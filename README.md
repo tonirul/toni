@@ -34,19 +34,34 @@ I enjoy combining **clean UI/UX** with **efficient backends** to solve real-worl
 ## 📌 Pinned Projects
 <p align="center">
   <a href="https://github.com/tonirul/dictionary">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=dictionary&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=dictionary&theme=tokyonight" alt="dictionary"/>
   </a>
-  <a href="https://github.com/tonirul/youtubeStatusChanger">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=youtubeStatusChanger&theme=tokyonight" />
+  <a href="https://github.com/tonirul/indianConstitution">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=indianConstitution&theme=tokyonight" alt="indianConstitution"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tonirul/ShareBox-File-Transfer-Sharing-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=ShareBox-File-Transfer-Sharing-App&theme=tokyonight" />
+  <a href="https://github.com/tonirul/youtubeStatusChanger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=youtubeStatusChanger&theme=tokyonight" alt="youtubeStatusChanger"/>
   </a>
-  <a href="https://github.com/tonirul/WeatherApp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=WeatherApp&theme=tokyonight" />
+  <a href="https://github.com/tonirul/basicYoutubeStatusChanger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=basicYoutubeStatusChanger&theme=tokyonight" alt="basicYoutubeStatusChanger"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tonirul/HomeRouterIPTracker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=HomeRouterIPTracker&theme=tokyonight" alt="HomeRouterIPTracker"/>
+  </a>
+  <a href="https://github.com/tonirul/Python-Updated">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=Python-Updated&theme=tokyonight" alt="Python Updated"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/tonirul/onlineExamWebApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=onlineExamWebApp&theme=tokyonight" alt="onlineExamWebApp"/>
   </a>
 </p>
 
