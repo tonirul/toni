@@ -33,20 +33,20 @@ I enjoy combining **clean UI/UX** with **efficient backends** to solve real-worl
 
 ## 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/exam-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=exam-app&theme=tokyonight" />
+  <a href="https://github.com/tonirul/exam-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=exam-app&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/youtube-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=youtube-automation&theme=tokyonight" />
+  <a href="https://github.com/tonirul/youtube-automation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=youtube-automation&theme=tokyonight" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/YOUR_USERNAME/system-infra-modeling">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=system-infra-modeling&theme=tokyonight" />
+  <a href="https://github.com/tonirul/system-infra-modeling">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=system-infra-modeling&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME/document-tools">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YOUR_USERNAME&repo=document-tools&theme=tokyonight" />
+  <a href="https://github.com/tonirul/document-tools">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=document-tools&theme=tokyonight" />
   </a>
 </p>
 
@@ -63,12 +63,12 @@ I enjoy combining **clean UI/UX** with **efficient backends** to solve real-worl
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" height="160px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tonirul&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonirul&layout=compact&theme=tokyonight" height="160px"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tonirul&theme=tokyonight" height="160px"/>
 </p>
 
 ---
@@ -82,4 +82,4 @@ I enjoy combining **clean UI/UX** with **efficient backends** to solve real-worl
 
 ⭐️ *Always open to collaboration on exciting projects!*  
 <br>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=YOUR_USERNAME.YOUR_USERNAME)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=tonirul.tonirul)
