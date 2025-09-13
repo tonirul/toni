@@ -33,11 +33,11 @@ I enjoy combining **clean UI/UX** with **efficient backends** to solve real-worl
 
 ## 📌 Pinned Projects
 <p align="center">
-  <a href="https://github.com/tonirul/exam-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=exam-app&theme=tokyonight" />
+  <a href="https://github.com/tonirul/dictionary">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=dictionary&theme=tokyonight" />
   </a>
-  <a href="https://github.com/tonirul/youtube-automation">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=youtube-automation&theme=tokyonight" />
+  <a href="https://github.com/tonirul/youtubeStatusChanger">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tonirul&repo=youtubeStatusChanger&theme=tokyonight" />
   </a>
 </p>
 
