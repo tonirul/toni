@@ -74,7 +74,7 @@ I enjoy combining **clean UI/UX** with **efficient backends** to solve real-worl
 ---
 
 ## 📫 Connect
-- 💼 [LinkedIn](#)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/tonirul-islam-2279b224a/)  
 - 🐦 [Twitter](#)  
 - 🌐 [Portfolio / Website](#)  
 
