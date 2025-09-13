@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ton  
+# Hi there 👋, I'm Tonirul
 
 💻 Developer passionate about building **scalable web apps**, **automation tools**, and **educational platforms**.  
 I enjoy combining **clean UI/UX** with **efficient backends** to solve real-world problems.  
